@@ -1,2 +1,3 @@
 # gitTesting
-My testing directory
+My testing directory.
+Hello world!!
